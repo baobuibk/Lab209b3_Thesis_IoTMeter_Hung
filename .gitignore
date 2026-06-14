@@ -1,0 +1,15 @@
+# Altium History
+**/History/
+
+# Altium backups
+**/__Previews/
+**/*.bak
+**/*.Dsk
+
+# Output files
+**/Project Outputs/
+**/Outputs/
+
+# Temporary files
+*.log
+*.tmp

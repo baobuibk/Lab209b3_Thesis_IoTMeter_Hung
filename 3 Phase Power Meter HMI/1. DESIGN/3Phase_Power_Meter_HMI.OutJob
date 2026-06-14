@@ -36,15 +36,15 @@ Configuration1_Name1=OutputConfigurationParameter1
 Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0|DocumentPath=
 
 [PublishSettings]
-OutputFilePath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3Phase_Power_Meter_Daughter_Board\3Phase_Power_Meter_Daughter_Board\.PDF
+OutputFilePath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3 Phase Power Meter HMI\2. SCHEMATIC PDF\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3Phase_Power_Meter_Daughter_Board\3Phase_Power_Meter_Daughter_Board\
+OutputBasePath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3 Phase Power Meter HMI\2. SCHEMATIC PDF\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=3Phase_Power_Meter_Daughter_Board.pdf
+OutputFileName2=3Phase_Power_Meter_HMI.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -115,7 +115,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3Phase_Power_Meter_Daughter_Board\3Phase_Power_Meter_Daughter_Board\.PDF
+RelativeOutputPath2=D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3 Phase Power Meter HMI\2. SCHEMATIC PDF\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
