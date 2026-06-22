@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : D:\WorkSpace\Luanvan\1. HARDWARE\2. DESIGN\3 Phase Power Meter\1. DESIGN\PCB.PcbDoc
 Date     : 6/22/2026
-Time     : 1:12:20 AM
+Time     : 12:10:52 PM
 
 Processing Rule : Clearance Constraint (Gap=0.13mm) (All),(All)
 Rule Violations :0
@@ -54,4 +54,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
